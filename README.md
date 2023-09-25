@@ -30,6 +30,12 @@ This model represents a Medical Image Segmentation Transformer (MIST) with a Con
 - thop
 ### Datasets
 This study uses the Automatic Cardiac Diagnosis Challenge (ACDC) and Synapse multi-organ datasets to evaluate the performance of MIST architecture. You can access ACDC dataset through https://www.creatis.insa-lyon.fr/Challenge/acdc/ and download Synapse dataset through https://www.synapse.org/\#!Synapse:syn3193805/wiki/217789.  
+
+### Preparing the data for training
+
+### Pre-trained models:
+
+### Testing (Model Evaluation)
 | Syntax      | Description | Test Text     | 
 | :---        |    :----:   |          ---: |
 | Header      | Title       | Here's this   |
@@ -39,3 +45,8 @@ This study uses the Automatic Cardiac Diagnosis Challenge (ACDC) and Synapse mul
 | :---        |    :----:   |          ---: |
 | Header      | Title       | Here's this   |
 | Paragraph   | Text        | And more      |
+
+### Citation and contact
+If this repository helped your works, please cite paper below:
+
+Please contact Md Motiur Rahman at rahma112@purdue.edu for any query.
