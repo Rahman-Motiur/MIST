@@ -7,7 +7,8 @@ This model represents a Medical Image Segmentation Transformer (MIST) with a Con
 - [ ] Convolutional projected multi-head self-attention (MSA) are used instead of linear MSA to reduce computational cost and capture more salient features.
 - [ ]	Depth-wise (deep and shallow) convolutions (DWC and SWC) are incorporated to extract relevant semantic features and to increase kernel receptive field for better long-range dependency.
       
-      ![image](https://github.com/Rahman-Motiur/MIST/assets/116365757/77dbef71-f02b-46d7-85f9-c966ee1a419f)
+      ![image](https://github.com/Rahman-Motiur/MIST/assets/116365757/ce917568-8f46-4224-b003-02b8b44eb54e)
+
      	
 
 ### Requirements
