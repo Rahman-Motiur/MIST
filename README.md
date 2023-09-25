@@ -55,6 +55,8 @@ Results on ACDC Dataset
 |nnFormer	|91.78	|90.22	|89.53	|95.59|
 |Parallel MERIT	|92.32	|90.87	|90.00	|96.08|
 |MIST (Proposed)	|92.56	|91.23	|90.31	|96.14|
+
+
 The results for ACDC (upper row) and synapse dataset (lower row) are shown in the following image.
 
 ![2](https://github.com/Rahman-Motiur/MIST/assets/116365757/aa0cef30-66a3-4a67-bbd5-e157121044cb)
