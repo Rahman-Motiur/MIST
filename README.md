@@ -37,6 +37,7 @@ This study uses the Automatic Cardiac Diagnosis Challenge (ACDC) and Synapse mul
 
 ### Testing (Model Evaluation)
 ### Results
+Results on ACDC Dataset
 |Models      | Mean DICE | Right Ventricle | Myocardium |	Left Ventricle |
 | :---       |    :----: |          ---:   |     ---:   |         ---:   |
 | TransUNet	  |89.71	|88.86	|84.53	|95.73|
