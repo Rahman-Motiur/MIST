@@ -10,24 +10,26 @@ This model represents a Medical Image Segmentation Transformer (MIST) with a Con
 - loguru
 - tqdm
 - pyyaml
--pandas
--matplotlib
--scikit-learn
--scikit-image
--scipy
--opencv-python
--seaborn
--albumentations
--tabulate
--warmup-scheduler
--torch==1.11.0+cu113
--torchvision==0.12.0+cu113
--mmcv-full -f https://download.openmmlab.com/mmcv/dist/cu113/torch1.11.0/index.html
--timm
--einops
--pthflops
--torchsummary
--thop
+- pandas
+- matplotlib
+- scikit-learn
+- scikit-image
+- scipy
+- opencv-python
+- seaborn
+- albumentations
+- tabulate
+- warmup-scheduler
+- torch==1.11.0+cu113
+- torchvision==0.12.0+cu113
+- mmcv-full -f https://download.openmmlab.com/mmcv/dist/cu113/torch1.11.0/index.html
+- timm
+- einops
+- pthflops
+- torchsummary
+- thop
+
+
 | Syntax      | Description | Test Text     |
 | :---        |    :----:   |          ---: |
 | Header      | Title       | Here's this   |
