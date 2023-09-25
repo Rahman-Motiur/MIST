@@ -36,6 +36,20 @@ This study uses the Automatic Cardiac Diagnosis Challenge (ACDC) and Synapse mul
 ### Pre-trained models:
 
 ### Testing (Model Evaluation)
+### Results
+Models	Mean DICE	Right Ventricle	Myocardium	Left Ventricle
+TransUNet	89.71	88.86	84.53	95.73
+SwinUNet	90.00	88.55	85.62	95.83
+MT-UNet	90.43	86.64	89.04	95.62
+MISSFormer	90.86	89.55	88.04	94.99
+PVT-CASCADE	91.46	88.90	89.97	95.50
+nnUNet	91.61	90.24	89.24	95.36
+TransCASCADE	91.63	89.14	90.25	95.50
+nnFormer	91.78	90.22	89.53	95.59
+Parallel MERIT	92.32	90.87	90.00	96.08
+MIST (Proposed)	92.56	91.23	90.31	96.14
+
+
 | Syntax      | Description | Test Text     | 
 | :---        |    :----:   |          ---: |
 | Header      | Title       | Here's this   |
