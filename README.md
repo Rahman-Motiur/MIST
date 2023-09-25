@@ -1,4 +1,3 @@
 # MIST
 Medical Image Segmentation Transformer with Convolutional Attention Mixing (CAM) Decoder
-
-The code and data with results will be available here soon.
+##Official Implementation of MIST: Medical Image Segmentation Transformer with Convolutional Attention Mixing (CAM) Decoder. Link to the full text paper 
